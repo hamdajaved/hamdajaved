@@ -15,7 +15,7 @@ Resulting in AI experiences that felt more intuitive, emotionally engaging, and 
 
 ---
 
-## 🚀 Quick Access  
+##  <h1> 🚀 Quick Access   </h1>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://ihamda.framer.website/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdah.ux@gmail.com)
