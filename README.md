@@ -1,101 +1,99 @@
-# 👋 Hi, I’m Hamda
+<!-- HEADER / INTRO -->
+<h1 align="center">Hi, I'm Hamda 👋</h1>
 
-✨ I design with curiosity and empathy to make things feel simple,even when they aren’t. ✨
+<p align="center">
+✨ I design with curiosity and empathy to make things feel simple—even when they aren’t.
+</p>
 
-🎯 UI/UX Designer | AI-Driven Product Design  
-📍 Based in Germany  
+<p align="center">
+🎯 UI/UX Designer • AI-Driven Product Design • Germany
+</p>
 
----
-
-## 🚀 About This Repository
-
-This repository showcases my UI/UX design work, including case studies, research, and product thinking across AI-driven and complex digital systems.
-
-It reflects not just final designs, but the **process, decisions, and strategy behind them**.
-
----
-
-## 🧠 What I Do
-
-- UX Research & User Psychology  
-- Product Thinking & Strategy  
-- AI/ML Interface Design  
-- Dashboard & Enterprise UX  
-- Design Systems & Scalable UI  
-- Interaction Design & Prototyping  
+<p align="center">
+<a href="https://ihamda.framer.website/">Portfolio</a> •
+<a href="mailto:hamdah.ux@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💼 Featured Work
+## ✦ About Me
 
-🔗 Portfolio: https://ihamda.framer.website/
+I design digital products that balance **user needs, business goals, and technical feasibility**.
 
-### 🔹 AI Agents Platform  
-Designing personalized AI agents with voice, personality, and monetization features—simplifying complex Web3 concepts for everyday users.
+With 3+ years of experience across fintech, SaaS, and AI-driven platforms, I specialize in **complex dashboards, scalable systems, and intelligent user experiences**.
 
-### 🔹 Investment App (Fintech)  
-Creating onboarding flows and dashboards that make investing accessible, secure, and intuitive.
-
-### 🔹 GPS Tracking Dashboard  
-Designing real-time tracking systems with geofencing and role-based controls for efficient monitoring.
-
----
-## 🧠 Expertise
-
-### Product & UX
-![UX Design](https://img.shields.io/badge/UX%20Design-6C63FF?style=flat-square)
-![UI Design](https://img.shields.io/badge/UI%20Design-8B5CF6?style=flat-square)
-![Interaction Design](https://img.shields.io/badge/Interaction%20Design-7C3AED?style=flat-square)
-![User-Centered Design](https://img.shields.io/badge/User--Centered-6366F1?style=flat-square)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-4F46E5?style=flat-square)
-
-### UX Research
-![User Research](https://img.shields.io/badge/User%20Research-0EA5E9?style=flat-square)
-![Usability Testing](https://img.shields.io/badge/Usability%20Testing-0284C7?style=flat-square)
-![User Feedback](https://img.shields.io/badge/User%20Feedback-0369A1?style=flat-square)
-
-### Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)
-
-### Product Thinking
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-10B981?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%20Collaboration-059669?style=flat-square)
-
-### Technical
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
----
-
-## 📊 Design Approach
-
-1. Understand users & context  
-2. Define the right problem  
-3. Explore multiple solutions  
-4. Validate through feedback  
-5. Iterate and refine  
+Currently pursuing a Master’s in HCI, focusing on **human-centered and adaptive design**.
 
 ---
 
-## ✨ Design Philosophy
+## ✦ Design Philosophy
 
 > Great design is not about simplifying the product,  
 > but about simplifying the experience.
 
 ---
 
-## 📫 Let’s Connect
+## ✦ Expertise
 
-📧 hamdah.ux@gmail.com  
-🔗 Portfolio: https://ihamda.framer.website/  
+### 🎨 Product & UX Design  
+![UX Design](https://img.shields.io/badge/UX%20Design-7F5AF0?style=for-the-badge)
+![UI Design](https://img.shields.io/badge/UI%20Design-9B5DE5?style=for-the-badge)
+![Interaction Design](https://img.shields.io/badge/Interaction%20Design-F15BB5?style=for-the-badge)
+![User-Centered Design](https://img.shields.io/badge/User--Centered-00BBF9?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-4F46E5?style=for-the-badge)
 
 ---
 
-## 🔁 Current Focus
+### 🔍 UX Research  
+![User Research](https://img.shields.io/badge/User%20Research-F3722C?style=for-the-badge)
+![Usability Testing](https://img.shields.io/badge/Usability%20Testing-F8961E?style=for-the-badge)
+![User Feedback](https://img.shields.io/badge/User%20Feedback-F9844A?style=for-the-badge)
+
+---
+
+### 🛠 Tools  
+![Figma](https://img.shields.io/badge/Figma-1E1E2F?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)
+![Miro](https://img.shields.io/badge/Miro-111827?style=for-the-badge&logo=miro&logoColor=FFD02F)
+![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 🚀 Product Thinking  
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-90BE6D?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20Collaboration-43AA8B?style=for-the-badge)
+
+---
+
+### 💻 Technical  
+![HTML5](https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFBE0B?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## ✦ Selected Work
+
+### 🔹 AI Agents Platform  
+Designing personalized AI agents with voice, personality, and monetization—simplifying complex systems for everyday users.
+
+### 🔹 Investment App  
+Creating onboarding and dashboards that make investing accessible and intuitive.
+
+### 🔹 GPS Tracking Dashboard  
+Designing real-time tracking with geofencing and smart monitoring systems.
+
+---
+
+## ✦ Current Focus
 
 - AI-driven UX  
-- Human-centered systems  
-- Adaptive and intelligent interfaces  
+- Adaptive interfaces  
+- Human-centered product systems  
+
+---
+
+## ✦ Let’s Connect
+
+📧 hamdah.ux@gmail.com  
+🔗 https://ihamda.framer.website/
