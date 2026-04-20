@@ -87,16 +87,17 @@ Creating real-time tracking experiences with geofencing and intelligent monitori
 
 ## ✨ Design Philosophy
 
-> Good design reduces effort.  
-> Great design removes confusion.
+<p align="center">
+  
+### 💡 “Good design reduces effort.  
+### ⚡ Great design removes confusion.”
 
----
+</p>
 
-## 🔥 Current Focus
-
-- AI-driven UX  
-- Adaptive interfaces  
-- Scalable design systems  
+<p align="center">
+I believe design is not about decoration—it's about **clarity, intention, and impact**.  
+Every interface should guide users effortlessly, even in complex systems.
+</p>
 
 ---
 
@@ -104,3 +105,5 @@ Creating real-time tracking experiences with geofencing and intelligent monitori
 
 📧 hamdah.ux@gmail.com  
 🌐 https://ihamda.framer.website/  
+💼 https://www.linkedin.com/in/hamda-javed-uxdesigner  
+
