@@ -15,7 +15,7 @@ Resulting in AI experiences that felt more intuitive, emotionally engaging, and 
 
 ---
 
-##  <h1> 🚀 Quick Access   </h1>
+##  <h2> 🚀 Quick Access   </h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://ihamda.framer.website/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdah.ux@gmail.com)
@@ -24,7 +24,7 @@ Resulting in AI experiences that felt more intuitive, emotionally engaging, and 
 
 ---
 
-## 🎨 About Me
+## <h2>  🎨 About Me   </h2>
 
 I design **data-heavy, AI-driven digital products** where clarity, usability, and intelligence intersect.
 
@@ -36,7 +36,7 @@ With 3+ years of experience across fintech, SaaS, and emerging technologies, I f
 
 ---
 
-## 🧠 Expertise
+##   <h2> 🧠 Expertise  </h2>
 
 ### 🎯 Product & UX Design  
 ![UX Design](https://img.shields.io/badge/UX%20Design-7F5AF0?style=for-the-badge)
@@ -85,7 +85,7 @@ With 3+ years of experience across fintech, SaaS, and emerging technologies, I f
 
 ---
 
-## 💼 Selected Work
+##   <h2> 💼 Selected Work  </h2>
 
 ### 🔹 AI Agents Platform  
 Designing AI-powered agents with voice, personality, and monetization—making complex systems accessible.
@@ -98,7 +98,7 @@ Creating real-time tracking experiences with geofencing and intelligent monitori
 
 ---
 
-## ✨ Design Philosophy
+##  <h2>✨ Design Philosophy  </h2>
 
 <p align="center">
 
@@ -114,7 +114,7 @@ because the system already did the thinking for them.
 
 ---
 
-## 🤝 Let’s Connect
+##   <h2> 🤝 Let’s Connect  </h2>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://ihamda.framer.website/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdah.ux@gmail.com)
