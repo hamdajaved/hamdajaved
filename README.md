@@ -1,13 +1,25 @@
 <!-- ✦ HERO / PITCH -->
-# 👋 Hi, I’m Hamda
-### ✨ Turning complexity into clarity through UX, AI, and thoughtful product design.
+## 👋 Hi there  
 
-I design with curiosity and empathy to make things feel simple—even when they aren’t.
+I’m **Hamda**, a UI/UX Designer focused on building **intelligent, human-centered digital products**.  
+With 3+ years of experience across fintech, SaaS, and AI-driven systems, I design experiences that simplify complexity and make technology feel intuitive.
 
-🎯 UI/UX Designer | AI-Driven Product Design  
+> ✨ “Design is not about making things simple —  
+> it’s about making complexity feel effortless.”
+
+---
+
+🎯 UI/UX Designer • AI-Driven Product Design  
 📍 Germany  
 
-🔗 [Portfolio](https://ihamda.framer.website/) • 📧 hamdah.ux@gmail.com  
+---
+
+## 🔗 Quick Access  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://ihamda.framer.website/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdah.ux@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamda-javed-uxdesigner)
+
 
 ---
 
@@ -103,7 +115,7 @@ because the system already did the thinking for them.
 
 ## 🤝 Let’s Connect
 
-📧 hamdah.ux@gmail.com  
-🌐 https://ihamda.framer.website/  
-💼 https://www.linkedin.com/in/hamda-javed-uxdesigner  
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://ihamda.framer.website/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdah.ux@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamda-javed-uxdesigner)
 
