@@ -4,8 +4,7 @@
 I’m **Hamda**, a UI/UX Designer focused on building **intelligent, human-centered digital products**.  
 With 3+ years of experience across fintech, SaaS, and AI-driven systems, I design experiences that simplify complexity and make technology feel intuitive.
 
-> ✨ “Design is not about making things simple —  
-> it’s about making complexity feel effortless.”
+> ✨ “I design with curiosity and empathy to make things feel simple—even when they aren’t.”
 
 ---
 
