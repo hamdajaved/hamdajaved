@@ -88,15 +88,15 @@ Creating real-time tracking experiences with geofencing and intelligent monitori
 ## ✨ Design Philosophy
 
 <p align="center">
-  
-### 💡 “Good design reduces effort.  
-### ⚡ Great design removes confusion.”
+
+### 💡 Design is not about making things look simple.  
+### ⚡ It’s about making complexity feel effortless.
 
 </p>
 
 <p align="left">
-I believe design is not about decoration—it's about **clarity, intention, and impact**.  
-Every interface should guide users effortlessly, even in complex systems.
+I design experiences where users don’t have to think twice—  
+because the system already did the thinking for them.
 </p>
 
 ---
