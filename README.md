@@ -94,7 +94,7 @@ Creating real-time tracking experiences with geofencing and intelligent monitori
 
 </p>
 
-<p align="center">
+<p align="left">
 I believe design is not about decoration—it's about **clarity, intention, and impact**.  
 Every interface should guide users effortlessly, even in complex systems.
 </p>
