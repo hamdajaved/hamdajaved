@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hamda
 
-✨ I design with curiosity and empathy to make things feel simple—even when they aren’t.  
+✨ I design with curiosity and empathy to make things feel simple,even when they aren’t. ✨
 
 🎯 UI/UX Designer | AI-Driven Product Design  
 📍 Based in Germany  
