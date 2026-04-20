@@ -1,60 +1,57 @@
-<!-- HEADER / INTRO -->
-<h1 align="center">Hi, I'm Hamda 👋</h1>
+<!-- ✦ HERO / PITCH -->
+# 👋 Hi, I’m Hamda
+### ✨ Turning complexity into clarity through UX, AI, and thoughtful product design.
 
-<p align="center">
-✨ I design with curiosity and empathy to make things feel simple—even when they aren’t.
-</p>
+I design with curiosity and empathy to make things feel simple—even when they aren’t.
 
-<p align="center">
-🎯 UI/UX Designer • AI-Driven Product Design • Germany
-</p>
+🎯 UI/UX Designer | AI-Driven Product Design  
+📍 Germany  
 
-<p align="center">
-<a href="https://ihamda.framer.website/">Portfolio</a> •
-<a href="mailto:hamdah.ux@gmail.com">Email</a>
-</p>
+🔗 [Portfolio](https://ihamda.framer.website/) • 📧 hamdah.ux@gmail.com  
 
 ---
 
-## ✦ About Me
+## 🎨 About Me
 
-I design digital products that balance **user needs, business goals, and technical feasibility**.
+I design **data-heavy, AI-driven digital products** where clarity, usability, and intelligence intersect.
 
-With 3+ years of experience across fintech, SaaS, and AI-driven platforms, I specialize in **complex dashboards, scalable systems, and intelligent user experiences**.
+With 3+ years of experience across fintech, SaaS, and emerging technologies, I focus on:
+- simplifying complex workflows  
+- designing scalable systems  
+- creating intuitive user experiences  
 
-
----
-
-## ✦ Design Philosophy
-
-> Great design is not about simplifying the product,  
-> but about simplifying the experience.
 
 ---
 
-## ✦ Expertise
+## 🧠 Expertise
 
-### 🎨 Product & UX Design  
+### 🎯 Product & UX Design  
 ![UX Design](https://img.shields.io/badge/UX%20Design-7F5AF0?style=for-the-badge)
 ![UI Design](https://img.shields.io/badge/UI%20Design-9B5DE5?style=for-the-badge)
 ![Interaction Design](https://img.shields.io/badge/Interaction%20Design-F15BB5?style=for-the-badge)
-![User-Centered Design](https://img.shields.io/badge/User--Centered-00BBF9?style=for-the-badge)
+![User-Centered Design](https://img.shields.io/badge/User--Centered%20Design-00BBF9?style=for-the-badge)
 ![Design Systems](https://img.shields.io/badge/Design%20Systems-4F46E5?style=for-the-badge)
+
+👉 Designing systems, not just screens—focused on usability, clarity, and scalability.
 
 
 
 ### 🔍 UX Research  
 ![User Research](https://img.shields.io/badge/User%20Research-F3722C?style=for-the-badge)
 ![Usability Testing](https://img.shields.io/badge/Usability%20Testing-F8961E?style=for-the-badge)
-![User Feedback](https://img.shields.io/badge/User%20Feedback-F9844A?style=for-the-badge)
+![User Feedback](https://img.shields.io/badge/User%20Feedback%20Analysis-F9844A?style=for-the-badge)
+
+👉 Translating user behavior into actionable design decisions.
 
 
 
-### 🛠 Tools  
+### 🛠 Tools & Workflow  
 ![Figma](https://img.shields.io/badge/Figma-1E1E2F?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)
 ![Miro](https://img.shields.io/badge/Miro-111827?style=for-the-badge&logo=miro&logoColor=FFD02F)
 ![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
+
+👉 From research to prototype to delivery—structured, collaborative workflow.
 
 
 
@@ -62,37 +59,48 @@ With 3+ years of experience across fintech, SaaS, and AI-driven platforms, I spe
 ![Product Strategy](https://img.shields.io/badge/Product%20Strategy-90BE6D?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile%20Collaboration-43AA8B?style=for-the-badge)
 
+👉 Bridging user needs with business and technical constraints.
 
 
-### 💻 Technical  
+
+### 💻 Technical Understanding  
 ![HTML5](https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFBE0B?style=for-the-badge&logo=javascript&logoColor=black)
 
+👉 Enabling better collaboration with developers through technical awareness.
+
 ---
 
-## ✦ Selected Work
+## 💼 Selected Work
 
 ### 🔹 AI Agents Platform  
-Designing personalized AI agents with voice, personality, and monetization—simplifying complex systems for everyday users.
+Designing AI-powered agents with voice, personality, and monetization—making complex systems accessible.
 
 ### 🔹 Investment App  
-Creating onboarding and dashboards that make investing accessible and intuitive.
+Simplifying onboarding, compliance, and portfolio management for beginner investors.
 
 ### 🔹 GPS Tracking Dashboard  
-Designing real-time tracking with geofencing and smart monitoring systems.
+Creating real-time tracking experiences with geofencing and intelligent monitoring.
 
 ---
 
-## ✦ Current Focus
+## ✨ Design Philosophy
+
+> Good design reduces effort.  
+> Great design removes confusion.
+
+---
+
+## 🔥 Current Focus
 
 - AI-driven UX  
 - Adaptive interfaces  
-- Human-centered product systems  
+- Scalable design systems  
 
 ---
 
-## ✦ Let’s Connect
+## 🤝 Let’s Connect
 
 📧 hamdah.ux@gmail.com  
-🔗 https://ihamda.framer.website/
+🌐 https://ihamda.framer.website/  
