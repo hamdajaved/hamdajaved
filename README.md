@@ -1,8 +1,10 @@
 <!-- ✦ HERO / PITCH -->
-## 👋 Hi there  
+## 👋 Hi, I’m Hamda
 
-I’m **Hamda**, a UI/UX Designer focused on building **intelligent, human-centered digital products**.  
-With 3+ years of experience across fintech, SaaS, and AI-driven systems, I design experiences that simplify complexity and make technology feel intuitive.
+A UI/UX Designer focused on building **intelligent, human-centered digital products**.  
+With 3+ years of experience across fintech, SaaS, and AI-driven systems, I designed AI-powered agents and multimodal interfaces that scaled across products. I aligned LLM behavior, visual systems, and user insights into cohesive flows, and led motion, IA, and interaction patterns.
+
+Resulting in AI experiences that felt more intuitive, emotionally engaging, and product-ready.
 
 > ✨ “I design with curiosity and empathy to make things feel simple, even when they aren’t.”
 
