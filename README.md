@@ -40,12 +40,14 @@ Creating onboarding flows and dashboards that make investing accessible, secure,
 Designing real-time tracking systems with geofencing and role-based controls for efficient monitoring.
 
 ---
+## 🛠️ Tools & Tech
 
-## 🛠️ Tools & Workflow
-
-Figma • Framer • Miro • Notion • Maze • Adobe XD  
-Basic GitHub & Product Development Workflow  
-
+![Figma](https://img.shields.io/badge/Figma-Design-black?style=for-the-badge&logo=figma)
+![Framer](https://img.shields.io/badge/Framer-Web-black?style=for-the-badge&logo=framer)
+![Miro](https://img.shields.io/badge/Miro-Workshops-black?style=for-the-badge&logo=miro)
+![Notion](https://img.shields.io/badge/Notion-Docs-black?style=for-the-badge&logo=notion)
+![Maze](https://img.shields.io/badge/Maze-Testing-black?style=for-the-badge)
+![Adobe XD](https://img.shields.io/badge/AdobeXD-Design-black?style=for-the-badge&logo=adobexd)
 ---
 
 ## 📊 Design Approach
