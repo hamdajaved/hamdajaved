@@ -22,7 +22,6 @@ I design digital products that balance **user needs, business goals, and technic
 
 With 3+ years of experience across fintech, SaaS, and AI-driven platforms, I specialize in **complex dashboards, scalable systems, and intelligent user experiences**.
 
-Currently pursuing a Master’s in HCI, focusing on **human-centered and adaptive design**.
 
 ---
 
@@ -42,14 +41,14 @@ Currently pursuing a Master’s in HCI, focusing on **human-centered and adaptiv
 ![User-Centered Design](https://img.shields.io/badge/User--Centered-00BBF9?style=for-the-badge)
 ![Design Systems](https://img.shields.io/badge/Design%20Systems-4F46E5?style=for-the-badge)
 
----
+
 
 ### 🔍 UX Research  
 ![User Research](https://img.shields.io/badge/User%20Research-F3722C?style=for-the-badge)
 ![Usability Testing](https://img.shields.io/badge/Usability%20Testing-F8961E?style=for-the-badge)
 ![User Feedback](https://img.shields.io/badge/User%20Feedback-F9844A?style=for-the-badge)
 
----
+
 
 ### 🛠 Tools  
 ![Figma](https://img.shields.io/badge/Figma-1E1E2F?style=for-the-badge&logo=figma&logoColor=F24E1E)
@@ -57,13 +56,13 @@ Currently pursuing a Master’s in HCI, focusing on **human-centered and adaptiv
 ![Miro](https://img.shields.io/badge/Miro-111827?style=for-the-badge&logo=miro&logoColor=FFD02F)
 ![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
 
----
+
 
 ### 🚀 Product Thinking  
 ![Product Strategy](https://img.shields.io/badge/Product%20Strategy-90BE6D?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile%20Collaboration-43AA8B?style=for-the-badge)
 
----
+
 
 ### 💻 Technical  
 ![HTML5](https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=white)
